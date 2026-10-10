@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0485-max-consecutive-ones) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0977-squares-of-a-sorted-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0414-third-maximum-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/1051-height-checker) |

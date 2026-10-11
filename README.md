@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/1051-height-checker) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->

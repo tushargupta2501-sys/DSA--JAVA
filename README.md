@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0941-valid-mountain-array) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

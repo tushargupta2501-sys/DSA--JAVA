@@ -33,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0088-merge-sorted-array) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0005-longest-palindromic-substring) |
 | [1021-remove-outermost-parentheses](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0643-maximum-average-subarray-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

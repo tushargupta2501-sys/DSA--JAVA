@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0349-intersection-of-two-arrays) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0005-longest-palindromic-substring) |
 | [1021-remove-outermost-parentheses](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0643-maximum-average-subarray-i) |
 ## Manacher
 |  |

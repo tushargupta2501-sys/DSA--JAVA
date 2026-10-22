@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0088-merge-sorted-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0349-intersection-of-two-arrays) |

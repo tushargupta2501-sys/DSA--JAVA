@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |

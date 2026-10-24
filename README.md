@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0048-rotate-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2409-count-days-spent-together](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/2409-count-days-spent-together) |
 ## String
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0014-longest-common-prefix) |
 | [1021-remove-outermost-parentheses](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/1021-remove-outermost-parentheses) |
+| [2409-count-days-spent-together](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/2409-count-days-spent-together) |
 ## Stack
 |  |
 | ------- |

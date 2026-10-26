@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0977-squares-of-a-sorted-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -150,9 +152,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/tushargupta2501-sys/DSA--JAVA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
